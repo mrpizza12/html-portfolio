@@ -2,4 +2,25 @@ body {
   background-color: lightblue;
 }
 
+#header > h1 {
+  font-family: Calibri, sans-serif;
+  font-size: 27px;
+}
+
+#header h1 > a {
+  text-decoration: none;
+  color: black;
+}
+
+#header > a {
+  text-decoration: none;
+}
+
+.linkedin-logo, .github-logo {
+  height: 28px;
+  width: 28px;
+  margin: 5px;
+}
+
+
 
